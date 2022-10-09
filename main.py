@@ -27,4 +27,4 @@ class MyClient(discord.Client):
 
 client = MyClient(intents=discord.Intents.default())
 
-client.run('MTAyMDM0ODcxODEwMjM1NjEwOQ.G_xNvi.Oe9UYG-kdAKa4cA4KTuNTwOTgnir3EkdcNaxIg')
+client.run('')
